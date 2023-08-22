@@ -4,8 +4,6 @@ import Notiflix from 'notiflix';
 import 'notiflix/dist/notiflix-3.2.6.min.css';
 import axios from 'axios';
 
-import 'notiflix/dist/notiflix-3.2.6.min.css';
-
 axios.defaults.headers.common['x-api-key'] =
   'live_3lTUbnsiQLqLHwor1OkURf0BxrWKldmY8O4eLcJhAwpw3fGyOnoPU2CwsNDvABgI';
 
